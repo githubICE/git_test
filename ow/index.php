@@ -9,7 +9,7 @@
 <script src="javascript/jquery-3.2.1.min.js"></script>
 <script src="javascript/jquery.bxslider.min.js"></script>
 <script src="javascript/jquery.colorbox.js"></script>
-<title>오버워치 타이틀</title>
+<title>뭐냐고 요생퀴야</title>
 </head>
 <body>
 <header>
