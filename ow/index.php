@@ -9,7 +9,7 @@
 <script src="javascript/jquery-3.2.1.min.js"></script>
 <script src="javascript/jquery.bxslider.min.js"></script>
 <script src="javascript/jquery.colorbox.js"></script>
-<title>오버워치</title>
+<title>오버워치라고</title>
 </head>
 <body>
 <header>
